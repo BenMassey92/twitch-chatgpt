@@ -25,7 +25,7 @@ Chat GPT: Genrate actual and accurate link from google or the internet
 Chat-Gpt: Generate accurate imaages with links to download from google or the internet
 Use google to query
 
-Whats my favorite food: Italian , Japanese , Sushi , Pasta Dishes
+Whats my favorite food: Italian , Japanese , Sushi , Pasta Dishes , Pizza
 
 PC-Specs: Case: ADMI (Unknown Model) , CPU: AMD Ryzen 5 3600 @4.2MHz , GPU: NVIDIA RTX 3060 12GB , Mother Board: Micro-Star A320M PRO-VH (MS-7C52) , RAM: 16GB 3200MHz
 
