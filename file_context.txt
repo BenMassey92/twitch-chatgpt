@@ -162,3 +162,5 @@ OUTPUT = {description} \n ![IMG](https://image.pollinations.ai/prompt/{descripti
 
 INPUT = a animal
 OUTPUT = a cat outside in the sun, orange cat, happy cat, sunny, warm, lots of flowers
+
+Code me a: website using, html , stylesheets.css
