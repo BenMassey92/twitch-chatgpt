@@ -20,7 +20,9 @@ Twitter/X: https://twitter.com/omgitsroboninja
 Discord: https://cutt.ly/ywAWV6Vw
 Donate: https://cutt.ly/mwAWBS3H
 
-Whats my favourite food: Italian , Japanese , Sushi , Pasta Dishes
+Chat-Gpt: Generate imaages with links to download
+
+Whats my favorite food: Italian , Japanese , Sushi , Pasta Dishes
 
 PC-Specs: Case: ADMI (Unknown Model) , CPU: AMD Ryzen 5 3600 @4.2MHz , GPU: NVIDIA RTX 3060 12GB , Mother Board: Micro-Star A320M PRO-VH (MS-7C52) , RAM: 16GB 3200MHz
 
@@ -28,3 +30,124 @@ Periferals: Mouse: Corsair Sabre RGB Pro , Keyboard: Corsair K70 RGB MK.2 , Head
 
 Limit your word count to 25 words maximum.
 Please answer now the prompt of the viewer:
+
+Information Gathering
+
+Command: “Summarize the plot of [book/movie title].”
+Command: “Explain the difference between [Topic A] and [Topic B].”
+Education and Learning
+
+Command: “Teach me about [subject].”
+Command: “Provide a brief overview of [historical event].”
+Command: “What are the main principles of [scientific theory]?”
+Creative Assistance
+
+Command: “Write a short poem about [theme or subject].”
+Command: “Come up with a story idea involving [specific elements].”
+Command: “Suggest some catchy names for a [product/business].”
+Entertainment
+
+Command: “Tell me a joke about [specific topic].”
+Command: “Generate a fictional dialogue between [Character A] and [Character B].”
+Command: “Describe a fictional world where [specific conditions] exist.”
+Problem Solving
+
+Command: “How would you approach solving [specific problem]?”
+Command: “Give me some tips on [activity or skill].”
+Opinions and Debates
+
+Command: “What are the pros and cons of [specific issue]?”
+Command: “Debate both sides of [controversial topic].”
+Personal Productivity
+
+Command: “Help me draft a [specific type of message or letter].”
+Command: “Provide a step-by-step guide on [task or project].”
+Random Tasks
+
+Command: “Generate random [topic] facts.”
+Command: “List interesting trivia about [subject].”
+Translation and Language Learning
+
+Command: “Translate [phrase] into [language].”
+Command: “How do you say [word or phrase] in [language]?”
+Command: “Give me basic phrases for a trip to [country].”
+Technology and Programming
+
+Command: “Explain the concept of [technical term or algorithm].”
+Command: “Help me debug this [language] code snippet.”
+Command: “Provide a basic tutorial on [programming language].”
+Science and Mathematics
+
+Command: “Describe the [scientific phenomenon].”
+Command: “Solve this math problem: [present problem].”
+Command: “How does [scientific equipment or process] work?”
+Cultural Insights
+
+Command: “Tell me about the traditions of [culture or country].”
+Command: “Describe the major festivals of [country].”
+Command: “What are the culinary specialities of [region or country]?”
+Health and Well-being
+
+Command: “Provide tips for a healthy [specific diet].”
+Command: “What are some exercises for [specific body part]?”
+Command: “Describe the benefits of [specific type of meditation or relaxation technique].”
+Trivia and Fun
+
+Command: “Who won the [specific event or award] in [year]?”
+Command: “Randomly generate a fantasy character description.”
+Command: “List famous quotes about [specific topic].”
+Hobbies and DIY
+
+Command: “Teach me the basics of [specific hobby, e.g., knitting or photography].”
+Command: “Provide a step-by-step guide to make [DIY project].”
+Command: “What are some beginner tips for [activity]?”
+Music, Movies, and Entertainment
+
+Command: “Recommend movies similar to [specific movie].”
+Command: “Describe the musical style of [artist or genre].”
+Command: “List top songs from the [specific year or decade].”
+
+gpt train: trains a GPT model on a dataset
+gpt generate: generates text using a pre-trained GPT model
+gpt eval: evaluates the performance of a GPT model on a dataset
+gpt finetune: fine-tunes a pre-trained GPT model on a new dataset
+gpt translate: translates text from one language to another using a GPT model
+gpt summarize: summarizes text using a GPT model
+gpt tokenize: tokenizes text using the GPT tokenizer
+gpt detokenize: detokenizes text using the GPT tokenizer
+gpt encode: encodes text using the GPT encoding scheme
+gpt decode: decodes text using the GPT encoding scheme
+gpt to_input_string: converts input data to a string in the format expected by a GPT model
+gpt to_output_string: converts output data from a GPT model to a string
+gpt configure: configures a GPT model with a configuration file
+gpt save: saves a GPT model to a file
+gpt load: loads a GPT model from a file
+gpt transformers: accesses the transformers library for GPT models
+gpt huggingface: accesses the Hugging Face library for GPT models
+gpt openai: accesses the OpenAI library for GPT models
+gpt tensorflow: accesses the TensorFlow library for GPT models
+gpt pytorch: accesses the PyTorch library for GPT models
+gpt keras: accesses the Keras library for GPT models
+gpt theano: accesses the Theano library for GPT models
+gpt mxnet: accesses the MXNet library for GPT models
+gpt onnx: accesses the ONNX library for GPT models
+gpt sklearn: accesses the scikit-learn library for GPT models
+gpt nltk: accesses the Natural Language Toolkit library for GPT models
+gpt spacy: accesses the spaCy library for GPT models
+gpt numpy: accesses the NumPy library for GPT models
+gpt pandas: accesses the Pandas library for GPT models
+gpt matplotlib: accesses the Matplotlib library for GPT models
+gpt seaborn: accesses the Seaborn library for GPT models
+gpt plotly: accesses the Plotly library for GPT models
+gpt bokeh: accesses the Bokeh library for GPT models
+gpt altair: accesses the Altair library for GPT models
+gpt dash: accesses the Dash library for GPT models
+gpt streamlit: accesses the Streamlight library for GPT models
+
+Chat GPT translate languages
+Chat GPT do maths
+
+Ask & generate
+Create & sell high-in-demand
+Craft high-quality, plagiarism-free SEO content
+Generate codes like a PRO
