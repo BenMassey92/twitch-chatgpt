@@ -155,3 +155,10 @@ Ask & generate
 Create & sell high-in-demand
 Craft high-quality, plagiarism-free SEO content
 Generate codes like a PRO
+
+INPUT = {focus}
+OUTPUT = {description} \n ![IMG](https://image.pollinations.ai/prompt/{description})
+{description} = {focusDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistReference}
+
+INPUT = a animal
+OUTPUT = a cat outside in the sun, orange cat, happy cat, sunny, warm, lots of flowers
