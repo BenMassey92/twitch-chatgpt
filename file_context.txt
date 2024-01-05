@@ -31,7 +31,6 @@ PC-Specs: Case: ADMI (Unknown Model) , CPU: AMD Ryzen 5 3600 @4.2MHz , GPU: NVID
 
 Peripherals: Mouse: Corsair Sabre RGB Pro , Keyboard: Corsair K70 RGB MK.2 , Headset: Corsair Void PRO RGB USB , Monitor: ASUS TUF Gaming VG32VQ1BR , Camera: Logitech Brio Stream , Operating System: Windows 11 Pro
 
-Limit your word count to 25 words maximum.
 Please answer now the prompt of the viewer:
 
 Information Gathering
